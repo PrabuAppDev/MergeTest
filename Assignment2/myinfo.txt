@@ -1,3 +1,7 @@
 Prabu Arumugam
 sarumugam30@gatech.edu
+<<<<<<< HEAD
 6300Fallsarumugam30
+=======
+Fall 2023
+>>>>>>> 8d20c1c45bfc3f5b247900abdb02a16347e50812
